@@ -2,18 +2,18 @@
 
 ## About Me
 Passionate about software development.
-
+<br/>
 My goal is to make people's lives easier through software that helps with daily tasks.
 
 
 💻 +11 yoe software developer
-
+<br/>
 💼 +40 projects
-
-📱 13 mobile apps in google play
-
-🎮 6 mobile games in google play
-
+<br/>
+📱 13 mobile apps in google play [![Visit Google Play](https://img.shields.io/badge/Google%20Play-visit-green)]([https://play.google.com/store/apps/developer?id=iPapps)
+<br/>
+🎮 6 mobile games in google play [![Visit Google Play](https://img.shields.io/badge/Google%20Play-visit-green)]([https://play.google.com/store/apps/developer?id=iPapps)
+<br/>
 🥇 4 Programming contests
 
 
