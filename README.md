@@ -6,7 +6,7 @@ Passionate about software development.
 My goal is to make people's lives easier through software that helps with daily tasks.
 
 
-💻 +11 yoe software developer
+💻 +12 yoe software developer
 <br/>
 💼 +40 projects
 <br/>
