@@ -10,7 +10,7 @@ My goal is to make people's lives easier through software that helps with daily 
 <br/>
 💼 +40 projects
 <br/>
-📱 16 mobile apps in google play [![Visit Google Play](https://img.shields.io/badge/Google%20Play-visit-green)]([https://play.google.com/store/apps/developer?id=iPapps)
+📱 16 mobile apps in google play [![Visit Google Play](https://img.shields.io/badge/Google%20Play-visit-green)](https://play.google.com/store/apps/developer?id=iPapps)
 <br/>
 🎮 8 mobile games in google play [![Visit Google Play](https://img.shields.io/badge/Google%20Play-visit-green)]([https://play.google.com/store/apps/developer?id=iPapps)
 <br/>
